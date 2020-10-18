@@ -1,4 +1,4 @@
 # Welcome to my projects!
 
-collections:
-  - staff_members
+layout: post
+title: Blogging Like a Hacker

@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -12,7 +11,6 @@
     </nav>
     <h1>My First Page</h1>
     <section>
-      This is the content of my page
     </section>
     <footer>
       &copy; to me

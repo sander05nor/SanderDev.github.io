@@ -1,5 +1,9 @@
 # Welcome to my projects!
 
-```
-Code
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
 ```
